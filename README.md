@@ -37,7 +37,14 @@ The project follows the structure of a **Data Analytics / Explainer Project**:
 - `notebooks/` – Jupyter notebook for EDA and model  
 - `src/` – optional Python scripts  
 - `docs/` – project report and extra documentation  
-- `presentation/` – progress and final presentation slides  
+- `presentation/` – progress and final presentation slides
+
+  ### Project Report (Chapters 1–3)
+
+The initial version of the project report, covering **Chapter 1 (Introduction), Chapter 2 (Dataset & Entity), and Chapter 3 (Data Cleaning & Preprocessing)**, is available here:
+
+➡️ [Download Report (Chapters 1–3)](docs/report_chapters_1_3.pdf)
+
 
 ---
 
