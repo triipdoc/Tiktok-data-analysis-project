@@ -39,22 +39,11 @@ The project follows the structure of a **Data Analytics / Explainer Project**:
 - `docs/` – project report and extra documentation  
 - `presentation/` – progress and final presentation slides
 
-  ### Project Report (Chapters 1–3)
+ ## Reports
 
-The initial version of the project report, covering **Chapter 1 (Introduction), Chapter 2 (Dataset & Entity), and Chapter 3 (Data Cleaning & Preprocessing)**, is available here:
-
-➡️ [Download Report (Chapters 1–3)](docs/report_part1_3.pdf)
-
-## Reports
-
-- **Mid-level report (submitted 17.12.2025):**  
-  [mid_level_report.pdf](docs/mid_level_report.pdf)
-
-- **Current full draft (Chapters 1–6):**  
-  [report_part1_6.pdf](docs/report_part1_6.pdf)
-
-- **Early draft (Chapters 1–3):**  
-  [report_part1_3.pdf](docs/report_part1_3.pdf)
+- **Mid-level report (submitted 17.12.2025):** [mid_level_report.pdf](docs/mid_level_report.pdf)
+- **Current full draft (Chapters 1–6):** [report_part1_6.pdf](docs/report_part1_6.pdf)
+- **Early draft (Chapters 1–3):** [report_part1_3.pdf](docs/report_part1_3.pdf)
 
 
 ---
