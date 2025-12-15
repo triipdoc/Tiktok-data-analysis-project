@@ -45,6 +45,16 @@ The initial version of the project report, covering **Chapter 1 (Introduction), 
 
 ➡️ [Download Report (Chapters 1–3)](docs/report_part1_3.pdf)
 
+## Reports
+
+- **Mid-level report (submitted 17.12.2025):**  
+  [mid_level_report.pdf](docs/mid_level_report.pdf)
+
+- **Current full draft (Chapters 1–6):**  
+  [report_part1_6.pdf](docs/report_part1_6.pdf)
+
+- **Early draft (Chapters 1–3):**  
+  [report_part1_3.pdf](docs/report_part1_3.pdf)
 
 
 ---
