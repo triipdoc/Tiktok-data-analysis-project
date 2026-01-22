@@ -44,6 +44,11 @@ The project follows the structure of a **Data Analytics / Explainer Project**:
 - **Mid-level report (submitted 17.12.2025):** [mid_level_report.pdf](docs/mid_level_report.pdf)
 - **Current full draft (Chapters 1–6):** [report_part1_6.pdf](docs/report_part1_6.pdf)
 - **Early draft (Chapters 1–3):** [report_part1_3.pdf](docs/report_part1_3.pdf)
+- Data Files
+
+final_dataset.xlsx: Cleaned dataset used for analysis, feature engineering, and modeling.
+
+final_dataset.csv: CSV version for reproducibility.
 
 
 ---
